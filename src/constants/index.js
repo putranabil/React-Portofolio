@@ -9,7 +9,13 @@ export const HERO_CONTENT = `Perkenalkan, nama saya Putra Nabil. Saya adalah seo
  memecahkan masalah kompleks menjadi solusi yang sederhana melalui kode.
  Tujuan saya adalah menciptakan inovasi teknologi yang dapat bermanfaat bagi banyak orang`;
 
-export const ABOUT_TEXT = ``;
+export const ABOUT_TEXT = `Saya adalah penggemar setia Real Madrid, tim 
+sepak bola yang memiliki sejarah kaya dan prestasi luar biasa. Sejak pertama
+kali menonton pertandingan mereka, saya terpesona oleh gaya permainan yang agresif
+dan keterampilan para pemainnya. Kemenangan di Liga Champions dan rivalitas dengan tim-tim besar,
+seperti Barcelona, membuat saya semakin bangga menjadi bagian dari komunitas penggemar Madridista.
+Real Madrid bukan hanya sekadar klub bagi saya
+mereka adalah simbol dedikasi, semangat, dan cinta terhadap sepak bola.`;
 
 export const EXPERIENCES = [
   {
